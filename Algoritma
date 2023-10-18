@@ -1,0 +1,24 @@
+//Soal nomor 1
+//ALgoritma Deteksi Palindrom
+
+1. Mulai
+2. Masukkan kata
+3. Validasi kata terdiri dari huruf
+4. Menyimpan kata dalam variabel
+5. Lakukan split huruf dalam array
+6. Memasukkan ke dalam proses reverse string
+7. Jika, hasil reverse string sama dengan input maka output palindrom, dan jika hasil string tidak sama dengan input maka output non-palindrom
+8. Selesai
+
+//Soal nomor 2
+//Algoritma Reverse String
+
+1. Mulai
+2. Masukkan input berupa sebuah kalimat
+3. Validasi input berupa string
+4. Simpan kalimat dalam variabel
+5. Inisialisasi sebuah variabel kosong untuk menyimpan kalimat baru
+6. Masukkan satu per satu kata dalam sebuah array (split)
+7. Ambil satu per satu kata dari array dimulai dari indeks terakhir, lalu masukkan ke dalam variabel kosong untuk membentuk kalimat baru
+8. Tampilkan kalimat baru sebagai output
+9. Selesai
